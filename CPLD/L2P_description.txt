@@ -1,0 +1,1 @@
+A compilation of hardware mods to convert Leningrad-1 Speccy clone screen timings to Pentagon timings (see SCHEMATIC folder)
